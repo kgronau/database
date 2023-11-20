@@ -84,7 +84,7 @@ You must start the UPGR database and create the first AWR snapshot.
 
 4. Start HammerDB. On the desktop, double-click on the *HammerDB*.
     ![Double-click on the HammerDB icon](./images/02-awr-snapshot-hammerdb-icon.png " ")
-
+ 
 ## Task 2: Prepare workload
 
 1. In the benchmark list, expand *Oracle* / *TPROC-C*
